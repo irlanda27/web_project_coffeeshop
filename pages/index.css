@@ -4,6 +4,8 @@
   font-size: 16px;
   line-height: 20px;
   font-family: "Inter", "Arial", sans-serif;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media (min-width: 1600px) {
