@@ -68,29 +68,25 @@
   margin-right: 5px;
 }
 
-.h1 {
-  font-family: "Noto Serif";
+.header__span-accent {
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
   font-size: 58px;
   line-height: 72px;
   color: #2f80ed;
   margin: 0px;
-  margin-left: 80px;
 }
 
-.h2 {
+.header__title {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 58px;
   line-height: 72px;
-  letter-spacing: 1px;
+  letter-spacing: -1px;
   margin: 0px;
   margin-left: 80px;
-}
-
-.header__title {
   max-width: 709px;
   margin-top: 183px;
 }
