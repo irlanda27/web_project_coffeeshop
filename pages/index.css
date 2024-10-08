@@ -61,11 +61,11 @@
 }
 
 .header__image {
-  display: flex;
   margin-top: 124px;
   max-width: 646px;
   min-width: 568px;
   margin-right: 5px;
+  position: absolute;
 }
 
 .header__span-accent {
