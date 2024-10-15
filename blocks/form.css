@@ -1,0 +1,47 @@
+.form {
+  max-width: 385px;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 120px;
+  margin-top: 80px;
+}
+
+.form__fieldset {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+.form__label {
+  margin-bottom: 8px;
+}
+
+.form__input {
+  margin-bottom: 32px;
+  padding: 15px 20px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 1px;
+}
+
+.form__button {
+  background-color: #2f80ed;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+}
+
+.form__terms {
+  display: flex;
+  justify-content: center;
+  align-items: last baseline;
+  margin-top: 32px;
+  gap: 12px;
+}
